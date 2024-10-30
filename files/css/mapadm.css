@@ -1,0 +1,39 @@
+.freebangladesh-html5-map {
+    width: 80%;
+}
+
+.freebangladesh-html5-map .title {
+    display: inline-block;
+    width: 180px;
+}
+
+.color~.colorpicker {
+    position: absolute;
+    left: 300px;
+    margin-top: -110px;
+}
+
+.stateinfo .colorpicker + label {
+    margin-left: 20px;
+}
+
+.stateinfo .colorpicker + label input[type=checkbox] {
+    margin-right: 10px;
+}
+
+.freebangladesh-html5-map.full > .left-block {
+  float: left;
+  margin: 0;
+  width: 60%;
+}
+
+.freebangladesh-html5-map .right-block {
+
+  float: left;
+  height: 500px;
+  margin-left: 40px;
+  vertical-align: middle;
+  width: 35%;
+}
+
+
